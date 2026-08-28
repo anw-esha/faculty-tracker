@@ -1,0 +1,30 @@
+# Faculty Member Tracker
+
+A simple project designed to help students check faculty availability and basic faculty information.
+
+## Features
+
+* View faculty member details
+* Check faculty availability
+* Track department and subject information
+* Simple and student-friendly interface
+
+## Technology Used
+
+* Python
+* VS Code
+
+## Purpose
+
+This project was created as a beginner-level academic project to practice programming and build a useful faculty tracking system.
+
+## Future Improvements
+
+* Add a database
+* Add login functionality
+* Add real-time availability
+* Create a web-based interface
+
+## Author
+
+Anwesha Bhattacharjee
